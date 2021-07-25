@@ -1,0 +1,43 @@
+video {
+
+background: url("game_console.png");
+}
+
+
+.heading {
+
+width: 100%;
+text-align: center;
+}
+
+.heading button {
+
+float:right;
+
+}
+
+.heading h2 {
+
+display: inline;
+}
+
+.marioloser {
+
+width: 100%;
+}
+
+h4 {
+
+margin: 0;
+width: 100%;
+}
+
+.modal-dialog {
+
+width: 80%;
+}
+
+.instruction_image {
+
+width: 50%;
+}
